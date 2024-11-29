@@ -1,3 +1,4 @@
+- 👋 Hi, I’m @jaydowman338
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on new project
